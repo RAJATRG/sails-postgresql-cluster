@@ -1,12 +1,12 @@
 {
   "_args": [
     [
-      "sails-postgresql-cluster@0.11",
+      "sails-postgresql-cluster@0.11.4",
       "/Users/rajat.govekar/Desktop/rupeek_workspace/rupeek-web/app"
     ]
   ],
-  "_from": "sails-postgresql-cluster@0.11",
-  "_id": "sails-postgresql-cluster@0.11",
+  "_from": "sails-postgresql-cluster@0.11.4",
+  "_id": "sails-postgresql-cluster@0.11.4",
   "_inBundle": false,
   "_integrity": "sha512-nP4j/+wNoSITw0igAUERQIyMU0srz68sykkRIIEzmIrBgfRsKBRmDrA5jPZATSqByoqbAflw3JM7QQC3DqnDMg==",
   "_location": "/sails-postgresql-cluster",
@@ -14,18 +14,18 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "sails-postgresql-cluster@0.11",
+    "raw": "sails-postgresql-cluster@0.11.4",
     "name": "sails-postgresql-cluster",
     "escapedName": "sails-postgresql-cluster",
-    "rawSpec": "0.11",
+    "rawSpec": "0.11.4",
     "saveSpec": null,
-    "fetchSpec": "0.11"
+    "fetchSpec": "0.11.4"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/sails-postgresql-cluster/-/sails-postgresql-cluster-0.11.tgz",
-  "_spec": "0.11",
+  "_resolved": "https://registry.npmjs.org/sails-postgresql-cluster/-/sails-postgresql-cluster-0.11.4.tgz",
+  "_spec": "0.11.4",
   "_where": "/Users/rajat.govekar/Desktop/rupeek_workspace/rupeek-web/app",
   "author": {
     "name": "Cody Stoltman",
@@ -71,7 +71,7 @@
     "test": "make test"
   },
   "url": "https://github.com/RAJATRG/sails-postgresql-cluster",
-  "version": "0.11",
+  "version": "0.11.4",
   "waterlineAdapter": {
     "waterlineVersion": "~0.10.0",
     "interfaces": [
